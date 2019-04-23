@@ -10,7 +10,7 @@ Keep all discussions in the issues. If any issue requires further development, c
 ```
 <#issue-number>-<branch-name>
 ```
-for example 13-some-random-issue
+for example `13-some-random-issue`
 
 
 ---
